@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me 👋<br>Building the future at the intersection of bits, bytes, and pxiels.  🎮🛰️<br><br>AI Agents & Orchestration: Automating intelligence to bridge the gap between complex workflows and real-world impact. 🧠⚙️<br><br>GeoAI & Computer Vision: Teaching machines to map the world, one pixel at a time. 🌍🤖<br><br>Open Source: Creating robust tools for AI researchers (Check out LangRS or Godot_Rag!). 🛠️<br><br>Game Dev: When I’m not training models, I’m building interactive worlds. 🎮✨<br><br>Always open to collaborating on high-impact projects or chatting about the next great game! 👾
+About Me 👋<br>Building the future at of bits, bytes, and pxiels.  🎮🛰️<br><br>AI Agents & Orchestration: Harness Engineering >> Bigger models. 🧠⚙️<br><br>GeoAI & Computer Vision: Teaching machines to map the world, one pixel at a time. 🌍🤖<br><br>Open Source: Creating robust tools for AI researchers (Check out LangRS or Godot_Rag!). 🛠️<br><br>Game Dev: When I’m not training models, I’m building interactive worlds. 🎮✨<br><br>Always open to collaborating on high-impact projects or chatting about the next great game! 👾
 
 
 ## 🌐 Socials:
