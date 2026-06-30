@@ -15,7 +15,7 @@ Building the future at of bits, bytes, and pxiels.  🎮🛰️<br><br>AI Agents
 ---
 [![](https://komarev.com/ghpvc/?username=MohanadDiab&icon=1&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me through a cup of coffee! :)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohanaddiab) 
 
   
