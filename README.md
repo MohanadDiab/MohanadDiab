@@ -12,11 +12,4 @@ Building the future at of bits, bytes, and pxiels.  🎮🛰️<br><br>AI Agents
 ![](https://streak-stats.demolab.com/?user=MohanadDiab&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohanadDiab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=MohanadDiab&icon=1&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can support me through a cup of coffee! :)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohanaddiab) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
